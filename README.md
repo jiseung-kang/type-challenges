@@ -20,7 +20,7 @@ Level : <img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/> <img s
 | Topic | Title |
 | - | - |
 | <img src="https://img.shields.io/badge/-%23-999" alt="#"/> | <img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/> | <img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/> |
-|  <img src="https://img.shields.io/badge/-%23union-999" alt="#union"/> <img src="https://img.shields.io/badge/-%23built--in-999" alt="#built-in"/> | <a href="/" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/><a/> |
+|  <img src="https://img.shields.io/badge/-%23union-999" alt="#union"/> <img src="https://img.shields.io/badge/-%23built--in-999" alt="#built-in"/> | <a href="https://github.com/jiseung-kang/type-challenges/blob/main/easy/Pick.md" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/><a/> |
 
 <!-- <img src="https://img.shields.io/badge/-%23application-999" alt="#application"/> -->
 
