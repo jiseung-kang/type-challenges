@@ -4,7 +4,7 @@
 
 ## Intro
 
-타입을 잘 선언하면 잠재적인 버그를 피할 수 있고 프로젝트의 유지보수를 향상시킬 수 있습니다. 
+타입을 잘 선언하면 잠재적인 버그를 피할 수 있고 프로젝트의 유지보수를 향상시킬 수 있습니다.
 
 타입을 잘 다듬어 줄 수 있는 좋은 유틸리티 라이브러리들이 있습니다.([ts-toolbelt](https://github.com/millsp/ts-toolbelt), [utility-types](https://github.com/piotrwitek/utility-types), [SimplyTyped](https://github.com/andnp/SimplyTyped), 등등). 이중 이미 사용하고 있는 라이브러리들도 있을 수 있습니다.
 
@@ -14,15 +14,14 @@
 
 > Challenges from : <copyright>https://github.com/type-challenges/type-challenges</copyright>
 
-Topic :     
+Topic :  
 Level : <img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/> <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> <img src="https://img.shields.io/badge/hard-38-de3d37" alt="38"/>
 
-| Topic | Title |
-| - | - |
-| <img src="https://img.shields.io/badge/-%23-999" alt="#"/> | <img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/> | <img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/> |
-|  <img src="https://img.shields.io/badge/-%23union-999" alt="#union"/> <img src="https://img.shields.io/badge/-%23built--in-999" alt="#built-in"/> | <a href="https://github.com/jiseung-kang/type-challenges/blob/main/easy/Pick.md" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/><a/> |
-
-<!-- <img src="https://img.shields.io/badge/-%23application-999" alt="#application"/> -->
+| Topic                                                                                                                                                                                                                                    | Title                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/-%23-999" alt="#"/>                                                                                                                                                                               | <img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/>                                                                                                  |
+| <img src="https://img.shields.io/badge/-%23union-999" alt="#union"/> <img src="https://img.shields.io/badge/-%23built--in-999" alt="#built-in"/>                                                                                         | <a href="https://github.com/jiseung-kang/type-challenges/blob/main/easy/Pick.md" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/><a/>             |
+| <img src="https://img.shields.io/badge/-%23built--in-999" alt="#built-in"/> <img src="https://img.shields.io/badge/-%23readonly-999" alt="#readonly"/> <img src="https://img.shields.io/badge/-%23object--keys-999" alt="#object-keys"/> | <a href="https://github.com/jiseung-kang/type-challenges/blob/main/easy/Readonly.md" target="_blank"><img src="https://img.shields.io/badge/-7%E3%83%BBReadonly-7aad0c" alt="7・Readonly"/><a/> |
 
 ## 읽을거리 추천
 
@@ -43,7 +42,7 @@ Level : <img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/> <img s
 - [타입 프로그래밍의 예술](https://mistlog.medium.com/the-art-of-type-programming-cfd933bdfff7)
 - [타입쿼리 : jQuery 스타일의 타입 조작](https://mistlog.medium.com/type-query-jquery-style-type-manipulation-497ce26d93f)
 
-### 프로젝트 / 해결책 
+### 프로젝트 / 해결책
 
 - [Type Gymnastics](https://github.com/g-plane/type-gymnastics)
 - [Type Challenges Solutions](https://github.com/ghaiklor/type-challenges-solutions)
